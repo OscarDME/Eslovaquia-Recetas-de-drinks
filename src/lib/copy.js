@@ -7,7 +7,7 @@ export const copy = {
   // ── SEO / METADATA (Číta to Layout.astro) ──────────────────────────────────
   metadata: {
     lang: 'sk',
-    title: '150 receptov na prémiové kokteily u vás doma',
+    title: '500 receptov na prémiové kokteily u vás doma',
     description:
       'Párty kokteily podľa overených receptov — dostupné suroviny a rýchla príprava. Ohúrte priateľov, ušetrite na drahých baroch a staňte sa hviezdou večera. Obsahuje exkluzívne bonusy.',
     canonical: 'https://150receitascopao.netlify.app',
@@ -27,7 +27,7 @@ export const copy = {
   // ── 2. HERO ───────────────────────────────────────────────────────────────
   hero: {
     tag: '🍋 Exkluzívna ponuka',
-    titleHighlight: '150 receptov na úžasné kokteily',
+    titleHighlight: '500 receptov na úžasné kokteily',
     titleConnector: 'pre vaše',
     titleHighlightGreen: 'maximálne potešenie',
     titleEnd: 'Aj keď ste úplný začiatočník',
@@ -36,7 +36,7 @@ export const copy = {
       { label: 'WhatsApp', kind: 'whatsapp' },
       { label: 'E-mail', kind: 'email' },
     ],
-    videoAlt: 'Predstavenie balíčka 150 receptov na domáce kokteily',
+    videoAlt: 'Predstavenie balíčka 500 receptov na domáce kokteily',
     ctaLabel: '✅ CHCEM MOJE RECEPTY EŠTE DNES',
     ctaSub: '🔒 100% bezpečný nákup • Okamžitý prístup',
   },
@@ -118,14 +118,14 @@ export const copy = {
     title: 'Vyberte si, ako chcete dnes začať:',
     complete: {
       badge: '⭐ Najpredávanejší',
-      title: 'Kompletný balík: 150+ receptov na kokteily',
-      descriptionLead: '150+ receptov na úžasné domáce kokteily + všetky',
+      title: 'Kompletný balík: 500+ receptov na kokteily',
+      descriptionLead: '500+ receptov na úžasné domáce kokteily + všetky',
       descriptionStrong: 'exkluzívne bonusy,',
       descriptionTail: 'vďaka ktorým sa stanete hviezdnym domácim barmanom.',
-      mockupAlt: 'Ukážka kompletného balíka 150 receptov',
+      mockupAlt: 'Ukážka kompletného balíka 500 receptov',
       includesLabel: '🎁 Obsahuje všetky bonusy:',
       items: [
-        '150+ receptov na prémiové kokteily',
+        '500+ receptov na prémiové kokteily',
         'Zoznam cenovo dostupných alternatív drahého alkoholu',
         'Sprievodca šikovným nákupom surovín',
         'Manuál pre dokonalú domácu párty',
@@ -186,7 +186,7 @@ export const copy = {
 
   // ── 10. ZÁVEREČNÉ CTA ─────────────────────────────────────────────────────────
   finalCta: {
-    ctaLabel: '🍹 CHCEM PRÍSTUP K 150 RECEPTOM EŠTE DNES',
+    ctaLabel: '🍹 CHCEM PRÍSTUP K 500 RECEPTOM EŠTE DNES',
     subText: '🔒 Okamžitý prístup • 14-dňová záruka • Bezpečná platba',
   },
 
